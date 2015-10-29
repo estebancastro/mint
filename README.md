@@ -33,7 +33,7 @@ $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createin
 
 ### Homebrew
 ```bash
-$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/brew.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/brew.sh | bash
 ```
 
 
@@ -43,7 +43,7 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/brew.sh | 
 ### Sync Sublime Text 3 with Dropbox
 Before run the following command, login to Dropbox
 ```bash
-$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/sync-sublimetext-dropbox.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/sync-sublimetext-dropbox.sh | bash
 ```
 
 
@@ -53,7 +53,7 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/sync-subli
 ### Pimp! Terminal
 * Fish Shell
 ```bash
-$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/fish-shell.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/fish-shell.sh | bash
 ```
-* Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/Mint/master/Mint.terminal)
+* Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/mint/master/Mint.terminal)
 ![terminal preview](http://i.imgur.com/bi3Q0Gx.png | width=482)
