@@ -1,4 +1,4 @@
-# Mint - Fresh Install for Mac Os X 10.11 "El Capitan"
+# Mint
 Custom recipe to get [Mac Os X](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1018109117&mt=12&ls=1) running from scratch, setup applications and developer environment.
 
 
