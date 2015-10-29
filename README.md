@@ -1,4 +1,4 @@
-# Mint - Fresh Mac Os X 10.11 El Capitan install
+# Mint - Fresh Install for Mac Os X 10.11 "El Capitan"
 Custom recipe to get [Mac Os X](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1018109117&mt=12&ls=1) running from scratch, setup applications and developer environment.
 
 
@@ -33,7 +33,7 @@ $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createin
 
 ### Homebrew
 ```bash
-$ curl -L https://gist.githubusercontent.com/estebancastro/c14a8ae2115def4d38ed/raw/2ca110bb504f4b6e920ec833a1259d8fece7da5c/brew.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/brew.sh | bash
 ```
 
 
@@ -43,7 +43,7 @@ $ curl -L https://gist.githubusercontent.com/estebancastro/c14a8ae2115def4d38ed/
 ### Sync Sublime Text 3 with Dropbox
 Before run the following command, login to Dropbox
 ```bash
-$ curl -L https://gist.githubusercontent.com/estebancastro/2185ac788a1c357e80d4/raw/c3f3b933fbe0dca7b8a16ac448be769350330e79/sync-sublimetext-dropbox.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/sync-sublimetext-dropbox.sh | bash
 ```
 
 
@@ -53,7 +53,7 @@ $ curl -L https://gist.githubusercontent.com/estebancastro/2185ac788a1c357e80d4/
 ### Pimp! Terminal
 * Fish Shell
 ```bash
-$ curl -L https://gist.githubusercontent.com/estebancastro/860ade1a20ee861dc112/raw/560699a2d493f7d0e46e77b7354eafeff2556f4e/fish-shell.sh | bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/Mint/master/fish-shell.sh | bash
 ```
-* Import Terminal [personal profile](https://gist.githubusercontent.com/estebancastro/ffc9b3c5ef2674a1fce4/raw/ed3aa265a2f2927dfcf709eb9ae89b2a17221618/Esteban.terminal)
+* Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/Mint/master/Mint.terminal)
 ![terminal preview](http://i.imgur.com/bi3Q0Gx.png | width=482)
