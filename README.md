@@ -6,13 +6,13 @@ Custom recipe to get [Mac Os X](https://itunes.apple.com/WebObjects/MZStore.woa/
 
 
 ### Make a bootable OS X 10.11 El Capitan installer drive
-1. Formatted 8GB (or larger) drive, named "Untitled"
-2. Installer OS X El Capitan.app (/Applications)
-3. Making the installer drive
+* Formatted 8GB (or larger) drive, named "Untitled"
+* Installer OS X El Capitan.app (/Applications)
+* Making the installer drive
 ```bash
 $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app --nointeraction
 ```
-4. Boot holding down the Option key
+* Boot holding down the Option key
 
 
 
