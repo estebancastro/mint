@@ -1,6 +1,6 @@
 # Mint
-Custom recipe to get [Mac Os X](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1018109117&mt=12&ls=1) running from scratch, setup applications and developer environment.
-![Mint](https://raw.githubusercontent.com/estebancastro/mint/master/logo.png)
+Custom recipe to get Mac Os X running from scratch, setup applications and developer environment.
+![Mint](https://raw.githubusercontent.com/estebancastro/mint/master/img/mint_logo.png)
 
 
 
@@ -8,8 +8,8 @@ Custom recipe to get [Mac Os X](https://itunes.apple.com/WebObjects/MZStore.woa/
 
 ### Make a bootable OS X "El Capitan" installer drive
 * Formatted 8GB (or larger) drive, named "Untitled"
-* Installer OS X El Capitan.app (/Applications)
-* Making the installer drive
+* [Download](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1018109117&mt=12&ls=1) Mac OS X El Capitan.app installer (/Applications)
+* Making the installer drive:
 ```bash
 $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app --nointeraction
 ```
@@ -66,4 +66,4 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/sync-subli
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/fish-shell.sh | bash
 ```
 * Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/mint/master/Mint.terminal)
-![terminal preview](http://i.imgur.com/bi3Q0Gx.png | width=482)
+![terminal preview](https://raw.githubusercontent.com/estebancastro/mint/master/img/terminal_preview.png)
