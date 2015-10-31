@@ -42,6 +42,15 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/brew.sh | 
 
 
 
+### Git
+```bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/git.sh | bash
+```
+
+
+
+
+
 ### Mac OS Preferences
 ```bash
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/mac-os-preferences.sh | bash
