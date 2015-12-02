@@ -1,6 +1,6 @@
 # Mint
 Custom recipe to get Mac Os X running from scratch, setup applications and developer environment.
-![Mint](https://raw.githubusercontent.com/estebancastro/mint/master/img/mint_logo.png)
+![Mint](https://raw.githubusercontent.com/estebancastro/mint/master/img/mint_logo.gif)
 
 
 
@@ -43,6 +43,7 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/brew.sh | 
 
 
 ### Git
+* [Generating SSH keys](https://help.github.com/articles/generating-ssh-keys/)
 ```bash
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/git.sh | bash
 ```
