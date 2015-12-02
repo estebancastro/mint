@@ -1,6 +1,5 @@
 # Mint
 Custom recipe to get Mac Os X running from scratch, setup applications and developer environment.
-![Mint](https://raw.githubusercontent.com/estebancastro/mint/master/img/mint_logo.gif)
 
 
 
@@ -53,6 +52,8 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/git.sh | b
 
 
 ### Mac OS Preferences
+* Desktop color: 2b2b31
+
 ```bash
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/mac-os-preferences.sh | bash
 ```
@@ -76,4 +77,3 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/sync-subli
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/fish-shell.sh | bash
 ```
 * Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/mint/master/Mint.terminal)
-![terminal preview](https://raw.githubusercontent.com/estebancastro/mint/master/img/terminal_preview.png)
