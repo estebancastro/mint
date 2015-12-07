@@ -12,7 +12,7 @@ Custom recipe to get Mac Os X running from scratch, setup applications and devel
 ```bash
 $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app --nointeraction
 ```
-* Boot holding down the Option key
+* Boot holding down the **Option** key
 
 
 
