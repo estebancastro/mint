@@ -12,6 +12,7 @@ brew install fish
 
 
 echo -e "Set Fish as the default shell...\n\n\n"
+# first add the line /usr/local/bin/fish to /etc/shells
 chsh -s /usr/local/bin/fish
 
 

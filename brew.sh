@@ -32,6 +32,7 @@ binaries=(
 
 echo -e "Installing binaries...\n\n\n"
 brew install ${binaries[@]}
+brew tap caskroom/versions
 
 
 
@@ -70,7 +71,7 @@ apps=(
   mindnode-pro
   screenflow
   sizeup
-  sublime-text
+  sublime-text3
   vmware-fusion
 )
 
@@ -88,6 +89,7 @@ fonts=(
 )
 
 echo -e "Installing fonts...\n\n\n"
+brew tap caskroom/fonts
 brew cask install ${fonts[@]}
 
 

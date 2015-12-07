@@ -26,7 +26,7 @@ $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createin
 * [Keynote](https://itunes.apple.com/us/app/keynote/id409183694?mt=12&ls=1&v0=www-us-mac-keynote-app-keynote)
 * [Sketch](http://www.macupdate.com/app/mac/35230/sketch)
 * [Droplr](https://itunes.apple.com/us/app/droplr/id498672703?mt=12)
-
+* [Messenger for Mac](http://fbmacmessenger.rsms.me/)
 
 
 
