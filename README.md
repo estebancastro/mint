@@ -52,6 +52,15 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/git.sh | b
 
 
 
+### Node Packages
+```bash
+$ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/npm.sh | bash
+```
+
+
+
+
+
 ### Mac OS Preferences
 * Desktop color: 2b2b31
 
