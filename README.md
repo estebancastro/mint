@@ -28,7 +28,7 @@ $ sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createin
 * [Droplr](https://itunes.apple.com/us/app/droplr/id498672703?mt=12)
 * [Messenger for Mac](http://fbmacmessenger.rsms.me/)
 * [ChitChat](http://www.macupdate.com/app/mac/54316/chitchat)
-
+* [Dash](https://itunes.apple.com/us/app/dash/id449589707?ls=1&mt=12)
 
 
 
@@ -62,7 +62,7 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/npm.sh | b
 
 
 ### Mac OS Preferences
-* Desktop color: 2b2b31
+* Desktop color: 27292C
 
 ```bash
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/mac-os-preferences.sh | bash
@@ -87,3 +87,4 @@ $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/sync-subli
 $ curl -L https://raw.githubusercontent.com/estebancastro/mint/master/fish-shell.sh | bash
 ```
 * Import Terminal [personal profile](https://raw.githubusercontent.com/estebancastro/mint/master/Mint.terminal)
+

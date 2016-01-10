@@ -28,3 +28,4 @@ curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install | fish
 
 echo -e "Installing 'Sushi' Fish theme...\n\n\n"
 omf install sushi
+

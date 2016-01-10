@@ -46,6 +46,7 @@ apps=(
   firefox
   google-chrome
   handbrake
+  jdownloader
   keka
   numi
   sequel-pro
@@ -98,3 +99,4 @@ brew cask install ${fonts[@]}
 
 echo -e "Cleaning homebrew recipes...\n\n\n"
 brew cleanup && brew cask cleanup
+
