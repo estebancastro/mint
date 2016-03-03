@@ -26,6 +26,8 @@ binaries=(
   git
   postgresql
   mysql
+  ansible
+  ssh-copy-id
   # python3
   caskroom/cask/brew-cask
 )
